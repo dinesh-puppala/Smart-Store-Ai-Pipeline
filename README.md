@@ -94,4 +94,4 @@ This project aims to build an intelligent system that captures real-time CCTV fo
 ---
 
 ## 🏁 Credits & Inspiration
-This project is inspired by the fusion of Computer Vision, Audio AI, and Data Engineering to create smart IoT-driven retail insights. Made with ❤️ by [Dinesh Kumar].
+This project is inspired by the fusion of Computer Vision, Audio AI, and Data Engineering to create smart IoT-driven retail insights. Concept and idea developed with ❤️ by [Dinesh Kumar].
